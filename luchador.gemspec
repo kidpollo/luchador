@@ -10,7 +10,7 @@ Gem::Specification.new do |s|
   s.required_rubygems_version = Gem::Requirement.new(">= 0") if s.respond_to? :required_rubygems_version=
   s.authors = ["@kidpollo"]
   s.date = "2011-10-06"
-  s.description = "TODO: longer description of your gem"
+  s.description = "a luchador can be whatever yoy want it to be"
   s.email = "kidpollo@gmail.com"
   s.extra_rdoc_files = [
     "LICENSE.txt",
@@ -23,6 +23,7 @@ Gem::Specification.new do |s|
     "README.rdoc",
     "Rakefile",
     "lib/luchador.rb",
+    "luchador.gemspec",
     "test/helper.rb",
     "test/test_luchador.rb"
   ]
@@ -30,7 +31,7 @@ Gem::Specification.new do |s|
   s.licenses = ["MIT"]
   s.require_paths = ["lib"]
   s.rubygems_version = "1.8.10"
-  s.summary = "TODO: one-line summary of your gem"
+  s.summary = "mystery gem with hidden mystical powers"
 
   if s.respond_to? :specification_version then
     s.specification_version = 3
