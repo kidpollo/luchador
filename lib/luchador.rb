@@ -1,0 +1,3 @@
+module Luchador
+
+end
